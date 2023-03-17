@@ -1,8 +1,26 @@
 For Windows users:
 -> Make sure your anti-virus don't blocks the .exe file from unknown publisher.
 
+
+
 For Mac users:
 -> If you are unable to open the file because it is from an "Unidentified Developer", Go to "System Prefrences -> Privacy and Security", Scroll down and click "Open Anyway".
+-> First Open the ALGO_UNLOCK folder in terminal. Then cd to Mac folder and give necessary write permission using below commands:
+    cd Custom\ Input\ Output
+    cd Mac
+    chmod u=rwx,g=r,o=r *
+    
+-> Now to run a problem file (for example Another_String_Problem.out) use below command:
+    ./Another_String_Problem.out
+
+
 
 For Linux users:
 -> You will have to run the extracted files from terminal.
+-> First Open the ALGO_UNLOCK folder in terminal. Then cd to Linux folder and give necessary write permission using below commands:
+    cd Custom\ Input\ Output
+    cd Linux
+    chmod u=rwx,g=r,o=r *
+    
+-> Now to run a problem file (for example Another_String_Problem.out) use below command:
+    ./Another_String_Problem.out
