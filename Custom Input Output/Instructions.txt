@@ -1,0 +1,8 @@
+For Windows users:
+-> Make sure your anti-virus don't blocks the .exe file from unknown publisher.
+
+For Mac users:
+-> If you are unable to open the file because it is from an "Unidentified Developer", Go to "System Prefrences -> Privacy and Security", Scroll down and click "Open Anyway".
+
+For Linux users:
+-> YOu will ahve to run the extrscted files from terminal.
