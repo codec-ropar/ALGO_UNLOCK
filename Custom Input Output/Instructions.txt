@@ -5,4 +5,4 @@ For Mac users:
 -> If you are unable to open the file because it is from an "Unidentified Developer", Go to "System Prefrences -> Privacy and Security", Scroll down and click "Open Anyway".
 
 For Linux users:
--> YOu will ahve to run the extrscted files from terminal.
+-> You will have to run the extracted files from terminal.
